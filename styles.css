@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+  background: black;
+  color: #00ff00;
+  font-family: monospace;
+  text-align: center;
+  margin: 0;
+}
+.hero {
+  padding: 10% 0;
+}
+button {
+  background: #0000ff;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
